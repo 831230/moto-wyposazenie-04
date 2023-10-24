@@ -2,10 +2,10 @@ import React, {lazy} from "react";
 import { Routes, Route } from "react-router-dom";
 
 // components imports
-const Home = lazy(() => import("./pages/home/Home"));
-const Aboute = lazy(() => import("./pages/aboute/Aboute"));
-const Contact = lazy(() => import("./pages/contact/Contact"));
-const WebAppTemplate = lazy(() => import("./components/webAppTemplate/WebAppTemplate"));
+const Home = lazy(() => import("pages/home/Home"));
+const Aboute = lazy(() => import("pages/aboute/Aboute"));
+const Contact = lazy(() => import("pages/contact/Contact"));
+const WebAppTemplate = lazy(() => import("components/webAppTemplate/WebAppTemplate"));
 
 
 const App = () => {
