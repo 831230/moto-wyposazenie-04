@@ -2,7 +2,7 @@
   "name": "motowyposazenie-01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://831230.github.io/moto-wyposazenie-04.git",
+  "homepage": "https://831230.github.io/moto-wyposazenie-04/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
