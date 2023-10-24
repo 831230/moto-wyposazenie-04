@@ -11,6 +11,7 @@ const WebAppTemplate = lazy(() => import("./components/webAppTemplate/WebAppTemp
 const App = () => {
   return ( 
     <>
+    <h2>APP</h2>
     <Routes> 
       <Route path="/" element={<WebAppTemplate/>}>
         {/* HOME */}
