@@ -16,6 +16,9 @@ const App = () => {
   return (
     <>
       <h2>APP</h2>
+      
+      <Home/>
+
       <Routes>
         <Route path="/" element={<WebAppTemplate />}>
           {/* HOME */}
