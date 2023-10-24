@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/moto-wyposazenie-04/static/css/main.907f59e0.css",
-    "main.js": "/moto-wyposazenie-04/static/js/main.84b0f8d5.js",
-    "static/media/logo2.jpg": "/moto-wyposazenie-04/static/media/logo2.897aa39e8660f4bdc1a7.jpg",
+    "main.js": "/moto-wyposazenie-04/static/js/main.dcc82a3a.js",
     "index.html": "/moto-wyposazenie-04/index.html",
     "main.907f59e0.css.map": "/moto-wyposazenie-04/static/css/main.907f59e0.css.map",
-    "main.84b0f8d5.js.map": "/moto-wyposazenie-04/static/js/main.84b0f8d5.js.map"
+    "main.dcc82a3a.js.map": "/moto-wyposazenie-04/static/js/main.dcc82a3a.js.map"
   },
   "entrypoints": [
     "static/css/main.907f59e0.css",
-    "static/js/main.84b0f8d5.js"
+    "static/js/main.dcc82a3a.js"
   ]
 }
