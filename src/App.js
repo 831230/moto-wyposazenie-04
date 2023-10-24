@@ -1,4 +1,4 @@
-import React, {useState, lazy} from "react";
+import React, {lazy} from "react";
 import { Routes, Route } from "react-router-dom";
 
 // components imports
