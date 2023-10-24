@@ -8,14 +8,15 @@ import { Routes, Route } from 'react-router-dom';
 // const WebAppTemplate = lazy(() => import("components/webAppTemplate/WebAppTemplate"));
 
 import Home from 'pages/home/Home';
-import Aboute from 'pages/aboute/Aboute';
-import Contact from 'pages/contact/Contact';
-import WebAppTemplate from 'components/webAppTemplate/WebAppTemplate';
+import Aboute from './pages/aboute/Aboute';
+// import Contact from 'pages/contact/Contact';
+// import WebAppTemplate from 'components/webAppTemplate/WebAppTemplate';
 
 const App = () => {
   return (
     <>
       <h2>APP</h2>
+      {/* <Home/> */}
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path="/o-nas" element={<Aboute />} />
