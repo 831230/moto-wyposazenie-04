@@ -14,7 +14,7 @@ import Aboute from 'pages/aboute/Aboute';
 
 const App = () => {
   return (
-    <>
+    <div>
       <h2>APP</h2>
       {/* <Home/> */}
       <Routes>
@@ -31,7 +31,7 @@ const App = () => {
           {/* <Route path="kontakt" element={<Contact />} /> */}
         {/* </Route> */}
       {/* </Routes> */}
-    </>
+    </div>
   );
 };
 
