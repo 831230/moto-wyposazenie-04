@@ -16,17 +16,20 @@ const App = () => {
   return (
     <>
       <h2>APP</h2>
-      
-      <Home/>
-
       <Routes>
-        <Route path="/" element={<WebAppTemplate />}>
-          {/* HOME */}
-          <Route index element={<Home />} />
-          <Route path="o-nas" element={<Aboute />} />
-          <Route path="kontakt" element={<Contact />} />
-        </Route>
+        <Route path='/' element={<Home/>}/>
+        <Route path="/o-nas" element={<Aboute />} />
       </Routes>
+      
+
+      {/* <Routes> */}
+        {/* <Route path="/" element={<WebAppTemplate />}> */}
+          {/* HOME */}
+          {/* <Route index element={<Home />} /> */}
+          {/* <Route path="o-nas" element={<Aboute />} /> */}
+          {/* <Route path="kontakt" element={<Contact />} /> */}
+        {/* </Route> */}
+      {/* </Routes> */}
     </>
   );
 };
