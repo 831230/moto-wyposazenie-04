@@ -1,8 +1,11 @@
 import { Suspense } from "react";
 import { Outlet } from "react-router-dom";
 
-import Nav from "../navigation/Nav";
-import Footer from "../footer/Footer";
+// import Footer from "../footer/Footer";
+// import Nav from "../navigation/Nav";
+import Nav from "components/navigation/Nav";
+import Footer from "components/footer/Footer";
+
 
 const WebAppTemplate = () => {
   return (
