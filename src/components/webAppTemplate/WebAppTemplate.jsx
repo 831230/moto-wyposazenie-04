@@ -1,4 +1,4 @@
-import { Suspense } from "react";
+// import { Suspense } from "react";
 import { Outlet } from "react-router-dom";
 
 // import Footer from "../footer/Footer";
@@ -29,9 +29,10 @@ const WebAppTemplate = () => {
       </header>
 
       <main>
-        <Suspense fallback={<div>...is loading</div>}>
+        {/* <Suspense fallback={<div>...is loading</div>}>
           <Outlet />
-        </Suspense>
+        </Suspense> */}
+        <Outlet />
       </main>
 
       <footer>

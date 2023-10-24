@@ -20,8 +20,8 @@ const App = () => {
         <Route path="/" element={<WebAppTemplate />}>
           {/* HOME */}
           <Route index element={<Home />} />
-          <Route path="/o-nas" element={<Aboute />} />
-          <Route path="/kontakt" element={<Contact />} />
+          <Route path="o-nas" element={<Aboute />} />
+          <Route path="kontakt" element={<Contact />} />
         </Route>
       </Routes>
     </>
