@@ -8,7 +8,7 @@ import { Routes, Route } from 'react-router-dom';
 // const WebAppTemplate = lazy(() => import("components/webAppTemplate/WebAppTemplate"));
 
 import Home from 'pages/home/Home';
-import Aboute from './pages/aboute/Aboute';
+import Aboute from 'pages/aboute/Aboute';
 // import Contact from 'pages/contact/Contact';
 // import WebAppTemplate from 'components/webAppTemplate/WebAppTemplate';
 
