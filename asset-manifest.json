@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/831230/moto-wyposazenie-04/static/css/main.907f59e0.css",
-    "main.js": "/831230/moto-wyposazenie-04/static/js/main.cc49a617.js",
-    "static/js/229.b7ab2e4a.chunk.js": "/831230/moto-wyposazenie-04/static/js/229.b7ab2e4a.chunk.js",
-    "static/js/438.fa5bbca1.chunk.js": "/831230/moto-wyposazenie-04/static/js/438.fa5bbca1.chunk.js",
-    "static/js/288.5fc3133f.chunk.js": "/831230/moto-wyposazenie-04/static/js/288.5fc3133f.chunk.js",
-    "static/js/260.59f8e330.chunk.js": "/831230/moto-wyposazenie-04/static/js/260.59f8e330.chunk.js",
-    "static/media/logo2.jpg": "/831230/moto-wyposazenie-04/static/media/logo2.897aa39e8660f4bdc1a7.jpg",
-    "index.html": "/831230/moto-wyposazenie-04/index.html",
-    "main.907f59e0.css.map": "/831230/moto-wyposazenie-04/static/css/main.907f59e0.css.map",
-    "main.cc49a617.js.map": "/831230/moto-wyposazenie-04/static/js/main.cc49a617.js.map",
-    "229.b7ab2e4a.chunk.js.map": "/831230/moto-wyposazenie-04/static/js/229.b7ab2e4a.chunk.js.map",
-    "438.fa5bbca1.chunk.js.map": "/831230/moto-wyposazenie-04/static/js/438.fa5bbca1.chunk.js.map",
-    "288.5fc3133f.chunk.js.map": "/831230/moto-wyposazenie-04/static/js/288.5fc3133f.chunk.js.map",
-    "260.59f8e330.chunk.js.map": "/831230/moto-wyposazenie-04/static/js/260.59f8e330.chunk.js.map"
+    "main.css": "/moto-wyposazenie-04/static/css/main.907f59e0.css",
+    "main.js": "/moto-wyposazenie-04/static/js/main.e8a77ead.js",
+    "static/js/229.b7ab2e4a.chunk.js": "/moto-wyposazenie-04/static/js/229.b7ab2e4a.chunk.js",
+    "static/js/438.fa5bbca1.chunk.js": "/moto-wyposazenie-04/static/js/438.fa5bbca1.chunk.js",
+    "static/js/288.5fc3133f.chunk.js": "/moto-wyposazenie-04/static/js/288.5fc3133f.chunk.js",
+    "static/js/260.59f8e330.chunk.js": "/moto-wyposazenie-04/static/js/260.59f8e330.chunk.js",
+    "static/media/logo2.jpg": "/moto-wyposazenie-04/static/media/logo2.897aa39e8660f4bdc1a7.jpg",
+    "index.html": "/moto-wyposazenie-04/index.html",
+    "main.907f59e0.css.map": "/moto-wyposazenie-04/static/css/main.907f59e0.css.map",
+    "main.e8a77ead.js.map": "/moto-wyposazenie-04/static/js/main.e8a77ead.js.map",
+    "229.b7ab2e4a.chunk.js.map": "/moto-wyposazenie-04/static/js/229.b7ab2e4a.chunk.js.map",
+    "438.fa5bbca1.chunk.js.map": "/moto-wyposazenie-04/static/js/438.fa5bbca1.chunk.js.map",
+    "288.5fc3133f.chunk.js.map": "/moto-wyposazenie-04/static/js/288.5fc3133f.chunk.js.map",
+    "260.59f8e330.chunk.js.map": "/moto-wyposazenie-04/static/js/260.59f8e330.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.907f59e0.css",
-    "static/js/main.cc49a617.js"
+    "static/js/main.e8a77ead.js"
   ]
 }
